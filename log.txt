@@ -1,3 +1,9 @@
+commit 1cb35bfce5adf254611bc31f1148135617f7c14d
+Author: Jomar <jomarlabaguismendoza25@gmail.com>
+Date:   Wed Dec 11 16:13:30 2024 +0800
+
+    Adding commit history
+
 commit 3ba1f9f7bdbdda63714b64dbb1bcfdd095a38c23
 Author: Jomar <jomarlabaguismendoza25@gmail.com>
 Date:   Wed Sep 25 14:51:29 2024 +0800
